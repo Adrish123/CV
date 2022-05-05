@@ -4,15 +4,25 @@ body {
 
 h1 {
   color: #66BFBF;
+  font-family: 'Quicksand', sans-serif;
 }
 
 h3 {
   color: #66BFBF;
-}
+  font-family: 'Raleway', sans-serif;
+  }
 
 hr {
   border-style: dotted none none;
   border-color: grey;
   border-width: 5px;
   width: 5%;
+}
+
+p {
+  font-family: 'Merriweather', serif;
+}
+
+table{
+  font-family: 'Merriweather', serif;
 }
